@@ -13,7 +13,7 @@
           { "nombre": "Amalia Ledesma" }
         ],
         "titulo": "Coaching Ejecutivo",
-        "fechaClase": "26 de Diciembre de 2020",
+        "fecha": "26 de Diciembre de 2020",
         "nombreAlumno": "Christian Saavedra"
       }
     },
@@ -30,7 +30,7 @@
           { "nombre": "Amalia Ledesma" }
         ],
         "titulo": "Neo Oratoria",
-        "fechaClase": "26 de Diciembre de 2020",
+        "fecha": "26 de Diciembre de 2020",
         "nombreAlumno": "Christian Saavedra"
       }
     },
@@ -47,7 +47,7 @@
           { "nombre": "Amalia Ledesma" }
         ],
         "titulo": "Neo Oratoria",
-        "fechaClase": "26 de Diciembre de 2020",
+        "fecha": "26 de Diciembre de 2020",
         "nombreAlumno": "Christian Saavedra"
       }
     }
